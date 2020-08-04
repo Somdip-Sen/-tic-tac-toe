@@ -1,2 +1,2 @@
 # -tic-tac-toe
-GUI based tic-tac-toe game
+GUI based tic-tac-toe game (pygame is used)
